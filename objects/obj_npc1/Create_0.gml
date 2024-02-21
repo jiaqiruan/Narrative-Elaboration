@@ -1,5 +1,5 @@
-firstText = "The key is at the downright of the house";
-secondText = "Go talk to the guy in the house";
+firstText = "The key is at the top left of the map";
+secondText = "The exit is at the top right of the map";
 
 width = sprite_get_width(spr_box);
 

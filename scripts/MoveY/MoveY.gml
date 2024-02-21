@@ -16,6 +16,8 @@ function MoveY(amount)
 			}
 			else
 			{
+				falling = false;
+				fall_speed = 0;
 				return true;
 			}
 		}

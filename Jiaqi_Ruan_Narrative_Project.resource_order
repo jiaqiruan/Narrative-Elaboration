@@ -38,6 +38,7 @@
     {"name":"spr_walking_hor","order":4,"path":"sprites/spr_walking_hor/spr_walking_hor.yy",},
     {"name":"spr_walking_down","order":3,"path":"sprites/spr_walking_down/spr_walking_down.yy",},
     {"name":"spr_girl","order":1,"path":"sprites/spr_girl/spr_girl.yy",},
+    {"name":"spr_jumping","order":13,"path":"sprites/spr_jumping/spr_jumping.yy",},
     {"name":"obj_key","order":4,"path":"objects/obj_key/obj_key.yy",},
     {"name":"obj_npc3","order":6,"path":"objects/obj_npc3/obj_npc3.yy",},
   ],
